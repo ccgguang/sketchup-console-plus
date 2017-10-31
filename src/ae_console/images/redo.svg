@@ -25,6 +25,25 @@
   </metadata>
   <g
      transform="translate(0,-988.36214)"
+     id="layer1-2"
+     style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
+    <g
+       transform="translate(-60,548.00002)"
+       id="g4978-7"
+       style="fill:#ffffff;stroke:#ffffff;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         transform="matrix(-1.8349753,1.8349753,-1.8631011,-1.8631011,641.20254,593.20417)"
+         d="m 113.91548,179.14423 c -0.52479,0.30299 -8.74643,-4.44378 -8.74643,-5.04975 0,-0.60597 8.22164,-5.35273 8.74643,-5.04975 0.52478,0.30299 0.52478,9.79652 0,10.0995 z"
+         id="path4984-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.52971904;marker:none;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="path2987-9"
+         d="m 60.022222,463.82879 c 0.248791,9.87936 5.612089,18.95288 14.2,23.91111 13.561001,7.82945 31.014998,3.161 38.844448,-10.4 l -7.37778,-4.26667 c -5.52357,9.56711 -17.632898,12.81246 -27.200001,7.28889 -5.960909,-3.44153 -9.689878,-9.68901 -9.933334,-16.53333 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4;marker:none;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+  <g
+     transform="translate(0,-988.36214)"
      id="layer1">
     <g
        transform="translate(-60,548.00002)"
@@ -36,8 +55,8 @@
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
       <path
          id="path2987"
-         d="m 60.022222,463.82879 c 0.248791,9.87936 5.612089,18.95288 14.2,23.91111 13.561001,7.82945 31.014998,3.161 38.844448,-10.4 l -7.37778,-4.26667 c -5.52357,9.56711 -17.632898,12.81246 -27.200001,7.28889 -5.960909,-3.44153 -9.689878,-9.68901 -9.933334,-16.53333 l -8.533333,0 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:12.06476307;marker:none;enable-background:accumulate" />
+         d="m 60.022222,463.82879 c 0.248791,9.87936 5.612089,18.95288 14.2,23.91111 13.561001,7.82945 31.014998,3.161 38.844448,-10.4 l -7.37778,-4.26667 c -5.52357,9.56711 -17.632898,12.81246 -27.200001,7.28889 -5.960909,-3.44153 -9.689878,-9.68901 -9.933334,-16.53333 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:12.06476307;marker:none;enable-background:accumulate" />
     </g>
   </g>
 </svg>

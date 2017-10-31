@@ -23,23 +23,12 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(-144,-988.36221)"
-     id="layer1">
-    <g
-       id="g4171"
-       transform="translate(-198,611)">
-      <path
-         id="path4984"
-         d="m 358.82962,389.36214 c -0.0128,-5e-5 -0.0171,0.005 -0.0293,0.006 -0.0459,0.003 -0.0857,0.0155 -0.11133,0.0488 -0.91866,1.19689 -0.91866,38.69915 0,39.896 0.0256,0.0333 0.0655,0.0456 0.11133,0.0488 C 362.41028,429.46803 393,411.69161 393,409.36483 c 0,-2.31893 -30.39171,-19.98871 -34.17037,-20.00269 z"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
-      <rect
-         y="351.36221"
-         x="342"
-         height="90"
-         width="90"
-         id="rect2986"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:4;marker:none;enable-background:accumulate" />
-    </g>
-  </g>
+  <path
+     id="path4984-3"
+     d="m 16.82962,11.99989 c -0.0128,0 -0.0171,0 -0.0293,0.01 -0.0459,0 -0.0857,0.015 -0.11133,0.049 -0.91866,1.1969 -0.91866,38.6992 0,39.896 0.0256,0.033 0.0655,0.046 0.11133,0.049 C 20.41028,52.11019 51,34.33379 51,32.00699 51,29.68809 20.60829,12.01829 16.82963,12.00429 Z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;marker:none;enable-background:accumulate;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     id="path4984"
+     d="m 16.82962,11.99989 c -0.0128,0 -0.0171,0 -0.0293,0.01 -0.0459,0 -0.0857,0.015 -0.11133,0.049 -0.91866,1.1969 -0.91866,38.6992 0,39.896 0.0256,0.033 0.0655,0.046 0.11133,0.049 C 20.41028,52.11019 51,34.33379 51,32.00699 51,29.68809 20.60829,12.01829 16.82963,12.00429 Z"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;enable-background:accumulate" />
 </svg>
